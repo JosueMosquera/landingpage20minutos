@@ -1,0 +1,29 @@
+#textos{
+    margin-top: 40px;
+    text-align: center;
+}
+.texto{
+    font-size: 1.3rem;
+    color: rgb(97, 41, 149);
+}
+#img{
+
+    margin-top: 30px;
+    width: 600px;
+    height: 300px;
+}
+.footer{
+    
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.contact{
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+    margin-bottom: 10px;
+}
